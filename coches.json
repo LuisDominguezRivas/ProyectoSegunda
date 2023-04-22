@@ -1,0 +1,113 @@
+
+   "modelo":[
+      {
+         "id":"01",
+         "marca":"renault",
+         "nombre":"megane",
+         "motor":"1.8 diesel"
+      },
+      {
+         "id":"02",
+         "marca":"citroen",
+         "nombre":"c15",
+         "motor":"1.8 gasolina"
+      },
+      {
+         "id":"03",
+         "marca":"mercedes",
+         "nombre":"cla",
+         "motor":"1.6 hibrido"
+      },
+      {
+         "id":"04",
+         "marca":"opel",
+         "nombre":"astra",
+         "motor":"1.8 diesel"
+      },
+      {
+         "id":"05",
+         "marca":"peugeot",
+         "nombre":"308",
+         "motor":"electrico"
+      }
+   ],
+   "anuncio":[
+      {
+         "id":"01",
+         "id_modelo":"01",
+         "foto":"foto.jpg",
+         "año":"2015",
+         "ubicacion":"caceres",
+         "precio":"15000",
+         "kilometros":"187000"
+      },
+      {
+         "id":"02",
+         "id_modelo":"02",
+         "foto":"foto1.jpg",
+         "año":"2005",
+         "ubicacion":"toledo",
+         "precio":"1500",
+         "kilometros":"347000"
+      },
+      {
+         "id":"03",
+         "id_modelo":"03",
+         "foto":"foto2.jpg",
+         "año":"2018",
+         "ubicacion":"badajoz",
+         "precio":"30000",
+         "kilometros":"121000"
+      },
+      {
+         "id":"04",
+         "id_modelo":"04",
+         "foto":"foto3.jpg",
+         "año":"2013",
+         "ubicacion":"madrid",
+         "precio":"7500",
+         "kilometros":"247000"
+      },
+      {
+         "id":"05",
+         "id_modelo":"05",
+         "foto":"foto6.jpg",
+         "año":"2022",
+         "ubicacion":"ciudad real",
+         "precio":"30000",
+         "kilometros":"7000"
+      }
+   ],
+   "usuarios":[
+      {
+         "nombre":"luis dominguez rivas",
+         "email":"luisdominguezrivas@hotmail.es",
+         "tlf":"639484938",
+         "id":"05"
+      },
+      {
+         "nombre":"eustaquio roncero lorenzo",
+         "email":"eustaquioroncerolorenzo@hotmail.es",
+         "tlf":"637468324",
+         "id":"06"
+      },
+      {
+         "nombre":"david gutierrez garrido",
+         "email":"davidgutierrezgarrido@hotmail.es",
+         "tlf":"639484938",
+         "id":"07"
+      },
+      {
+         "nombre":"oscar clemente gonzalez",
+         "email":"oscarclementegonzalez@hotmail.es",
+         "tlf":"632479324",
+         "id":"08"
+      },
+      {
+         "nombre":"jesus iglesias gil",
+         "email":"jesusiglesiasgil@hotmail.es",
+         "tlf":"693874349",
+         "id":"09"
+      }
+   ]
+}
